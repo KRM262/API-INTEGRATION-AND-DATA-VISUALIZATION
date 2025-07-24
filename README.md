@@ -3,7 +3,7 @@
 
 "NMAE" : KRM LOHITH
 
-"INTERN ID" : CT04DG393
+"INTERN ID" : CT04DH201
 
 "DOMAIN" : PYTHON
 
@@ -41,3 +41,7 @@ Conclusion: This project demonstrates how to combine data engineering and visual
 
 "OUTPUT"
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2b9ca964-ebce-4338-9998-ceed7db694c1" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/7d2a7e2e-0793-4eaa-855d-4bab88ab3e2d" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e9dfd307-2d93-4201-bca2-c5ca7001260d" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/eb4af6dd-1e6b-4002-b788-ccf6d5a2dd7c" />
